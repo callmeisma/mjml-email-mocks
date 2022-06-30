@@ -1,0 +1,439 @@
+<mjml>
+  <mj-head>
+    <mj-title>Valley Forge Fabrics - New Release</mj-title>
+    <mj-preview>New Collection Releases</mj-preview>
+    <mj-attributes>
+      <mj-text padding="0" />
+      <mj-all font-family="Helvetica" />
+      <mj-all color="#444444" />
+    </mj-attributes>
+    <mj-style>.mj-carousel-thumbnail { margin-top: 2%; }</mj-style>
+  </mj-head>
+  <mj-body background-color="lightgray">
+    <!-- WELCOME -->
+    <mj-hero
+      background-color="white"
+      background-url=""
+      mode="fluid-height"
+      padding="10%"
+    >
+      <mj-image
+        src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-LOGO_Black.png"
+        alt="Valley Forge Fabrics Logo"
+        align="center"
+        width="125px"
+        href="https://valleyforge.com/"
+        padding-bottom="5%"
+      ></mj-image>
+      <mj-text align="center" padding="0" font-style="italic"
+        >Have you heard the buzz?</mj-text
+      >
+      <mj-text
+        font-size="30px"
+        align="center"
+        padding="1% 0 2% 0"
+        font-weight="900"
+        text-transform="uppercase"
+        >New Capsets are here!</mj-text
+      >
+      <mj-text align="center" padding="0" line-height="1.2"
+        >We just launched three new collections that inspire and create
+        beautiful design spaces. Check all new collections below!</mj-text
+      >
+    </mj-hero>
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper
+      background-color="white"
+      padding="3%"
+      border-top="5px solid #8fd0ca"
+      border-bottom="5px solid #8fd0ca"
+    >
+      <!-- Title CTA 1 -->
+      <mj-section padding="0">
+        <mj-column
+          padding="3%"
+          width="66%"
+          vertical-align="middle"
+          border-right="2px solid #8fd0ca"
+        >
+          <mj-text font-size="14px" align="left" color="#8fd0ca">
+            CSU198
+          </mj-text>
+          <mj-text
+            font-size="30px"
+            align="left"
+            text-transform="uppercase"
+            font-weight="900"
+            padding="1% 0 2% 0"
+          >
+            mix and mingle
+          </mj-text>
+          <mj-text line-height="1.2">
+            Mix and Mingle is a textured basic that emulates the warmth and
+            coziness of natural wool but with the durability that hospitality
+            requires. This line of faux wool upholstery includes a wide variety
+            of classic neutrals and saturated tones with a classic wool-like
+            mottled effect. This collection features new decorative options to
+            enrich your design space.</mj-text
+          >
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="5% 0">
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>End Use: </b>Upholstery</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>Width: </b>54"</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>Content: </b>100% polyester</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>Certifications: </b>Oeko-tex</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>SKU's: </b>10</mj-text
+          >
+          <mj-spacer height="10px" />
+          <mj-divider
+            border-style="solid"
+            border-color="#8fd0ca"
+            border-width="2px"
+            align="left"
+            width="66%"
+            padding="0"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="3% 0">
+          <mj-carousel
+            icon-width="33px"
+            left-icon="https://img.icons8.com/ios-glyphs/344/chevron-left.png"
+            right-icon="https://img.icons8.com/ios-glyphs/344/chevron-right.png"
+            tb-width="50px"
+          >
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSU198-MIX-AND-MINGLE-EDITORIAL.png"
+              alt="CSU198-Editorial"
+            />
+            <mj-carousel-image
+              src="http://9dca136fbc1304ea305b-cb4d167347d4238c9e99ff4a171716c6.r66.cf1.rackcdn.com/2022/CSU198-01.png"
+              alt="CSU198-01"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSU198-02.png"
+              alt="CSU198-02"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSU198-03.png"
+              alt="CSU198-03"
+            />
+          </mj-carousel>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button
+            color="white"
+            href="https://valleyforge.com/design-library/CSU198"
+            align="center"
+            text-transform="uppercase"
+            padding="0"
+          >
+            View CSU198 COLLECTION
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper
+      background-color="white"
+      padding="3%"
+      border-top="5px solid #9487bf"
+      border-bottom="5px solid #9487bf"
+    >
+      <mj-section padding="0">
+        <mj-column
+          padding="3%"
+          width="66%"
+          vertical-align="middle"
+          border-right="2px solid #9487bf"
+        >
+          <mj-text font-size="14px" align="left" color="#9487bf">
+            CSPS03
+          </mj-text>
+          <mj-text
+            font-size="30px"
+            align="left"
+            text-transform="uppercase"
+            font-weight="900"
+            padding="1% 0 2% 0"
+          >
+            RANDOM CONNECTIONS
+          </mj-text>
+          <mj-text line-height="1.2">
+            Random Connections is a fun marble design printed on a lightweight
+            sheer and is beautifully designed to create a layered effect in your
+            fabricated window treatment. This on-trend textile is shown in four
+            classic pastel tones and is Oeko-Tex certified.
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="5% 0">
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>End Use: </b>Printed Sheer</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>Width: </b>122"</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>Content: </b>100% polyester</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>Certifications: </b>Oeko-tex, Reach Compliant</mj-text
+          >
+          <mj-text padding-left="10%" align="left" line-height="1.3"
+            ><b>SKU's: </b>4</mj-text
+          >
+          <mj-spacer height="10px" />
+          <mj-divider
+            border-style="solid"
+            border-color="#9487bf"
+            border-width="2px"
+            align="left"
+            width="66%"
+            padding="0"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="3% 0">
+          <mj-carousel
+            icon-width="33px"
+            left-icon="https://img.icons8.com/ios-glyphs/344/chevron-left.png"
+            right-icon="https://img.icons8.com/ios-glyphs/344/chevron-right.png"
+            tb-width="50px"
+          >
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSPS03-RANDOM-CONNECTIONS-EDITORIAL.png"
+              alt="CSPS03-Editorial"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSPS03-01-L.png"
+              alt="CSPS03-01"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSPS03-02-L.png"
+              alt="CSPS03-02"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSPS03-03-L.png"
+              alt="CSPS03-03"
+            />
+          </mj-carousel>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column>
+          <mj-button
+            color="white"
+            href="https://valleyforge.com/design-library/CSPS03"
+            align="center"
+            text-transform="uppercase"
+            padding="0"
+          >
+            View CSPS03 Collection
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper
+      background-color="white"
+      padding="3%"
+      border-top="5px solid #eb9769"
+      border-bottom="5px solid #eb9769"
+    >
+      <!-- Title CTA 1 -->
+      <mj-section padding="0">
+        <mj-column
+          padding="3%"
+          width="66%"
+          vertical-align="middle"
+          border-right="2px solid #eb9769"
+        >
+          <mj-text font-size="14px" align="left" color="#eb9769">
+            CSV18
+          </mj-text>
+          <mj-text
+            font-size="30px"
+            align="left"
+            text-transform="uppercase"
+            font-weight="900"
+            padding="1% 0 2% 0"
+          >
+            HIDEOUT VINYL
+          </mj-text>
+          <mj-text line-height="1.2">
+            Hideout Vinyl includes a timeless and classic collection of faux
+            leathers. This collection showcases an array of solid earth and dark
+            tones that exude modern sophistication within any space.
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="5% 0">
+          <mj-text padding-left="8%" align="left" line-height="1.3"
+            ><b>End Use: </b>Upholstery</mj-text
+          >
+          <mj-text padding-left="8%" align="left" line-height="1.3"
+            ><b>Width: </b>54"</mj-text
+          >
+          <mj-text padding-left="8%" align="left" line-height="1.3"
+            ><b>Content: </b>75% PVC, 14% Polyester, 8% Viscose, 3% PU</mj-text
+          >
+          <mj-text padding-left="8%" align="left" line-height="1.3"
+            ><b>Certifications: </b>Oeko-tex</mj-text
+          >
+          <mj-text padding-left="8%" align="left" line-height="1.3"
+            ><b>SKU's: </b>7</mj-text
+          >
+          <mj-spacer height="10px" />
+          <mj-divider
+            border-style="solid"
+            border-color="#eb9769"
+            border-width="2px"
+            align="left"
+            width="66%"
+            padding="0"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0">
+        <mj-column padding="3% 0">
+          <mj-carousel
+            icon-width="33px"
+            left-icon="https://img.icons8.com/ios-glyphs/344/chevron-left.png"
+            right-icon="https://img.icons8.com/ios-glyphs/344/chevron-right.png"
+            tb-width="50px"
+          >
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSV18-HIDEOUT-EDITORIAL-1.png"
+              alt="CSV18 Editorial"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSV18-01.png"
+              alt="CSV18-01"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSV18-02.png"
+              alt="CSV18-02"
+            />
+            <mj-carousel-image
+              src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSV18-03.png"
+              alt="CSV18-03"
+            />
+          </mj-carousel>
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0"
+        >
+        <mj-column>
+          <mj-button
+            color="white"
+            href="https://valleyforge.com/design-library/CSV18"
+            align="center"
+            text-transform="uppercase"
+            padding="0"
+          >
+            View CSV18 Collection
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- CTA -->
+    <mj-wrapper padding="0">
+      <mj-hero
+        mode="fixed-height"
+        height="10px"
+        background-color="#eb9769"
+        vertical-align="middle"
+      >
+        <mj-text
+        font-size="30px"
+        align="center"
+        padding="4% 3% 1% 3%"
+        font-weight="900"
+        text-transform="uppercase"
+        font-style="italic"
+        color="white"
+        >
+          Don't Miss Out!
+        </mj-text>
+        <mj-text
+          align="center" padding="0 3%" line-height="1.2" color="white"
+        >
+          See all new SKU's and their details on the Design Library
+        </mj-text>
+        <mj-button
+          href="https://www.valleyforge.com/design-library?q%5Bcollection_book_number_in%5D=CSU198+CSPS03+CSV18"
+          align="center"
+          color="#ffffff"
+          padding="2% 5% 5% 5%"
+        >
+          VIEW ALL NEW COLLECTIONS
+        </mj-button>
+      </mj-hero>
+    </mj-wrapper>
+
+    <!-- FOOTER -->
+    <mj-section
+      background-color="white"
+      background-url=""
+      background-position="54% 97.5%"
+      padding="3% 0"
+    >
+      <mj-column vertical-align="middle">
+        <mj-image
+          src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-LOGO_Black.png"
+          alt="Valley Forge Fabrics Logo"
+          align="center"
+          width="100px"
+          href="https://valleyforge.com/"
+        ></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text line-height="1.3" align="center"
+          >Valley Forge Fabrics, Inc.</mj-text
+        >
+        <mj-text line-height="1.3" align="center">1650 West McNab Road</mj-text>
+        <mj-text line-height="1.3" align="center"
+          >Fort Lauderdale, FL 33309</mj-text
+        >
+        <mj-text line-height="1.3" align="center">(954) 971-1776</mj-text>
+
+        <mj-social font-size="10px" icon-size="20px" mode="horizontal">
+          <mj-social-element name="facebook-noshare" href="https://www.facebook.com/valleyforgefabrics">
+          </mj-social-element>
+          <mj-social-element
+            name="instagram"
+            href="https://www.instagram.com/valleyforgefabrics/"
+          ></mj-social-element>
+          <mj-social-element
+            name="twitter-noshare"
+            href="https://twitter.com/VFFabrics"
+          ></mj-social-element>
+          <mj-social-element
+            name="youtube-noshare"
+            href="https://www.youtube.com/user/ValleyForgeFabrics"
+          ></mj-social-element>
+          <mj-social-element
+            name="linkedin-noshare"
+            href="https://www.linkedin.com/company/valley-forge-fabrics-inc-/"
+          ></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
