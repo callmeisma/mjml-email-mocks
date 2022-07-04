@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "mjml src/email-image-lg.mjml --output src/email-image-lg.html"
+    "build": "mjml src/email-image-full.mjml --output src/email-image-full.html"
   },
   "keywords": [],
   "author": "",
