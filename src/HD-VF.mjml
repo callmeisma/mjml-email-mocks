@@ -1,0 +1,129 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-wrapper padding="0" />
+      <mj-section padding="0" />
+      <mj-hero padding="0" />
+      <mj-column padding="0" />
+      <mj-text padding="0" />
+      <mj-image padding="0" />
+      <mj-divider padding="0" />
+      <mj-class name="sideImage" color="blue" />
+      <mj-all font-family="helvetica" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#160E46" width="640px">
+    <!-- Header -->
+    <mj-section padding="50px">
+      <mj-column>
+        <mj-image src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-Logo-Transparent-white.png" alt="Valley Forge Fabrics Logo" align="center" width="125px"></mj-image>
+        <mj-text color="white" font-size="38px" align="center" text-transform="uppercase" font-weight="600" padding-top="25px" padding-bottom="2px">Upcycled Marine Plastic</mj-text>
+        <mj-text color="white" font-size="16px" align="center" text-transform="uppercase" font-weight="100">Upholstery</mj-text>
+        <mj-spacer height="18px" />
+        <mj-text font-size="15px" color="white" align="center">Hospitality | Textiles | Bedding | Window Treatments</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Why -->
+    <mj-section padding="15px 20px">
+      <mj-column vertical-align="top" padding-right="30px" padding-bottom="20px">
+        <mj-text color="white" font-size="40px" align="left" padding-bottom="10px">Why Marine Plastics?</mj-text>
+        <mj-divider border-width="3px" border-color="white" align="left" width="66px" />
+      </mj-column>
+      <mj-column vertical-align="top" padding-bottom="10px">
+        <mj-text color="white" font-size="14px" align="left" padding-bottom="10px">This collection gives the concept of recycled and upcycled plastics a new perspective by utilizing the plastic trash and litter in our
+          waterways, instead of plastics found only on land and in landfills.</mj-text>
+        <mj-text color="white" font-size="14px" align="left">Plastics and other marine debris are becoming a larger problem across the globe and creating garbage patches in both the Pacific and Atlantic oceans, as well as smaller bodies of water, such as the Mediterranean and North Seas.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-hero mode="fixed-height" height="250px" background-url="https://images.unsplash.com/photo-1503177847378-d2048487fa46?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80" background-color="#2a3448">
+    </mj-hero>
+
+    <!-- Purpose -->
+    <mj-section padding="25px 20px">
+      <mj-column vertical-align="middle" padding-bottom="20px">
+        <mj-text color="white" font-size="40px" align="left" padding-bottom="10px" padding-right="50px">Textiles with a purpose</mj-text>
+        <mj-divider border-width="3px" border-color="white" align="left" width="66px" padding-bottom="10px" />
+        <mj-spacer height="10px" />
+        <mj-text color="white" font-size="14px" align="left" padding-bottom="10px">As a part of our sustainability commitment, Valley Forge is dedicated to living and working together harmoniously with our environment. We have made the preservation of our plane and its resources a priority since 2002 by including recycled products in our standard product lines.</mj-text>
+        <mj-text color="white" font-size="14px" align="left" padding-bottom="10px">The 79 unique textiles within our first volume of Upcycled Marine Upholstery are woven with yarns that are made with plastics reclaimed from our oceands, coastal areas, and other waterways.</mj-text>
+        <mj-text color="white" font-size="14px" align="left">This includes plastics that are ocean-bound, meaning they have not made it to the ocean but are at high risk to end up there. The plastics are pulled from waterways through global clean-up initiatives then sorted, washed, and twisted into the yarns that are then used in our fabrics.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-hero mode="fixed-height" height="250px" background-url="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSU198-MIX-AND-MINGLE-EDITORIAL.png" background-color="#2a3448">
+    </mj-hero>
+
+    <!-- CTA -->
+    <mj-section padding="10px 0">
+      <mj-column>
+        <mj-button background-color="#B0673b">VIEW COLLECTION</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Hospitality -->
+    <mj-wrapper padding="15px 20px">
+      <mj-section padding-bottom="10px">
+        <mj-column vertical-align="middle">
+          <mj-text color="white" font-size="40px" align="left" padding-bottom="10px">Designed for Hospitality</mj-text>
+          <mj-divider border-width="3px" border-color="white" align="left" width="66px" padding-bottom="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column vertical-align="middle">
+          <mj-text color="white" font-size="14px" align="left">Upcycled Marine Plastic textiles weave sustainability, performance features, and comfort into one upholstery collection. The nine marine-inspired patterns come in an array of colors and textures that are as vibrant and diverse as the world's oceans. The combination of neautral tones and vibrant hues create a fluid statement within hospitality spaces along with a pleasant mix of soft chenille and textured boucle styles, providing enough variety to satisfy all tiers of interior design. Each sustainable pattern exceeds 50,000 double rubs and is woven in the USA to produce a unique and extensive line of upholstery fabrics. </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle" padding="20px 0">
+          <mj-text color="white" align="left" padding-left="20%">- Cleaneable and Durable</mj-text>
+          <mj-text color="white" align="left" padding-left="20%" padding-top="15px">- Fade Resistant</mj-text>
+          <mj-text color="white" align="left" padding-left="20%" padding-top="15px">- PFAs free</mj-text>
+          <mj-text color="white" align="left" padding-left="20%" padding-top="15px">- Fire Retardant</mj-text>
+          <mj-text color="white" align="left" padding-left="20%" padding-top="15px">- Oeko-Tex Certified Yarn</mj-text>
+          <mj-text color="white" align="left" padding-left="20%" padding-top="15px">- GRS Certified Yarn</mj-text>
+          <mj-text color="white" align="left" padding-left="20%" padding-top="15px">- Greenguard Gold Certified</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-hero mode="fluid-height" background-width="600px" background-height="600px" background-color="#2a3448" background-url="https://images.unsplash.com/photo-1602199926649-2e5e447bab97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80" background-color="#2a3448">
+    </mj-hero>
+    <mj-section>
+      <mj-column>
+        <mj-text padding="10px 0"color="white" align="right" vertical-align="bottom">
+          Artwork created by Lezio Lopes
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA -->
+    <mj-section padding="20px 0">
+      <mj-column>
+        <mj-button background-color="#B0673b">VIEW COLLECTION</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-hero>
+      <mj-divider border-width="1px" border-color="white" align="left" width="25%" />
+    </mj-hero>
+    <mj-section padding="3% 0%">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-Logo-Transparent-white.png" alt="Valley Forge Fabrics Logo" align="center" width="100px"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text color="white" line-height="1.3" align="center">Valley Forge Fabrics, Inc.</mj-text>
+        <mj-text color="white" line-height="1.3" align="center">1650 West McNab Road</mj-text>
+        <mj-text color="white" line-height="1.3" align="center">Fort Lauderdale, FL 33309</mj-text>
+        <mj-text color="white" line-height="1.3" align="center">(954) 971-1776</mj-text>
+        <mj-social align="center">
+          <mj-social-element name="facebook-noshare" href="https://www.facebook.com/valleyforgefabrics"></mj-social-element>
+          <mj-social-element name="instagram-noshare" href="https://www.instagram.com/valleyforgefabrics/"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="https://www.linkedin.com/company/valley-forge-fabrics-inc-/"></mj-social-element>
+          <mj-social-element name="twitter-noshare" href="https://twitter.com/VFFabrics"></mj-social-element>
+          <mj-social-element name="youtube-noshare" href="https://www.youtube.com/user/ValleyForgeFabrics"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
