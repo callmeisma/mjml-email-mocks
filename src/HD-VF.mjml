@@ -15,7 +15,8 @@
 
   <mj-body background-color="#160E46" width="640px">
     <!-- Header -->
-    <mj-section padding="50px">
+    <!-- background-size="cover" background-position="50% 50%" background-repeat="no-repeat" background-url="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSU198-MIX-AND-MINGLE-EDITORIAL.png" background-color="black" -->
+    <mj-section padding="30px" >
       <mj-column>
         <mj-image src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-Logo-Transparent-white.png" alt="Valley Forge Fabrics Logo" align="center" width="125px"></mj-image>
         <mj-text color="white" font-size="38px" align="center" text-transform="uppercase" font-weight="600" padding-top="25px" padding-bottom="2px">Upcycled Marine Plastic</mj-text>
