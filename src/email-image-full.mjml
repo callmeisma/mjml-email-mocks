@@ -29,7 +29,7 @@
 
     <!-- COLLECTION CARD IMAGE FULL -->
     <mj-section background-url="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/CSPS03-RANDOM-CONNECTIONS-EDITORIAL.png" background-size="cover" background-repeat="no-repeat">
-      <mj-column width="600px" padding="30px 0">
+      <mj-column padding="30px 0">
         <mj-text font-size="14px" align="left" padding="0 5%"> CSPS03 </mj-text>
         <mj-text font-size="30px" align="left" padding="2% 5%" text-transform="uppercase" font-weight="900">
           RANDOM CONNECTIONS
@@ -47,7 +47,6 @@
         <mj-text align="left" line-height="1.3" padding-left="5%"><b>Certifications | </b>Pending</mj-text>
         <mj-text align="left" line-height="1.3" padding-left="5%"><b>SKU's | </b>Pending</mj-text>
       </mj-column>
-
     </mj-section>
 
     <!-- COLLECTION CARD IMAGE FULL -->

@@ -1,0 +1,201 @@
+<mjml>
+  <mj-head>
+    <mj-title>Valley Forge Fabrics - New Release</mj-title>
+    <mj-preview>New Collection Releases</mj-preview>
+    <mj-attributes>
+      <mj-text padding="0%" />
+      <mj-all font-family="Helvetica" />
+      <mj-all color="#444444" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="lightgray">
+    <!-- WELCOME -->
+    <mj-section background-color="#232b2b" padding="1%">
+      <mj-column padding="5%">
+        <mj-image src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-Logo-Transparent-white.png" alt="Valley Forge Fabrics Logo" align="center" width="125px"></mj-image>
+        <mj-text color="white" align="center" line-height="1.3" font-style="italic" font-weight="100">Have you heard the buzz?</mj-text>
+        <mj-text color="white" font-size="30px" align="center" font-weight="900%" text-transform="uppercase" line-height="1.2">New Collections are here!</mj-text>
+        <mj-text color="white" align="center" line-height="1.3" font-weight="200">We just launched four new collections that inspire and create beautiful design spaces. Check all new collections below!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper background-color="white" padding="0%">
+      <!-- Title CTA 1 -->
+      <mj-section padding="0% 3%" border-top="5px solid #8fd0ca">
+        <mj-column padding="3%" width="66%" vertical-align="middle" border-right="2px solid #8fd0ca">
+          <mj-text font-size="14px" align="left" color="#8fd0ca" font-weight="400">
+            UPH03
+          </mj-text>
+          <mj-text font-size="30px" align="left" text-transform="uppercase" font-weight="900%" line-height="1.5">
+            Couture Chenille
+          </mj-text>
+          <mj-text line-height="1.2">
+            Valley Forge Fabrics presents Couture Chenille Upholstery, a collection that embraces Luxury comfortableness and core cottage styling. Deep, Textural yarns, soft, sumptuous chenille, in a variety of earth tones, provides a unique high-performance upholstery line. This collection is sure to make a statement and is also Oeko-Tex Certified. </mj-text>
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="0%">
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>End Use: </b>Upholstery</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Tech Specs: </b>Contents Vary</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>SKUs: </b>73</mj-text>
+          <mj-spacer height="10px" />
+          <mj-divider border-style="solid" border-color="#8fd0ca" border-width="2px" align="left" width="66%" padding="0%" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0% 3% 3% 3%">
+          <mj-image padding="0%" width="750px" fluid-on-mobile="true" src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022%2Femail-UPH03-LUXURIOUS-CHENILLE-EDITORIAL-01.png" alt="UPH03-Editorial" border-radius="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0%">
+          <mj-button color="white" href="https://www.valleyforge.com/design-library/UPH03" align="center" text-transform="uppercase" padding="0 0 3% 0%">
+            View UPH03 COLLECTION
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper background-color="white" padding="0%">
+      <!-- Title CTA 1 -->
+      <mj-section padding="0% 3%" border-top="5px solid #9487bf">
+        <mj-column padding="3%" width="66%" vertical-align="middle" border-right="2px solid #9487bf">
+          <mj-text font-size="14px" align="left" color="#9487bf" font-weight="400">
+            UPH05
+          </mj-text>
+          <mj-text font-size="30px" align="left" text-transform="uppercase" font-weight="900%" padding="1% 0 2% 0%">
+            TEN UNDER $TEN+
+          </mj-text>
+          <mj-text line-height="1.2">
+            Menswear-inspired designs meet modern day affordability with the Valley Forge revival collection of TEN UNDER $TEN+ Upholstery performance fabrics. Value, design, and service continue to be this company's greatest traits and the TEN UNDER $TEN+ brand represents this.</mj-text>
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="0%">
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>End Use: </b>Upholstery</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Tech Specs: </b>Contents Vary</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>SKUs: </b>74</mj-text>
+          <mj-spacer height="10px" />
+          <mj-divider border-style="solid" border-color="#9487bf" border-width="2px" align="left" width="66%" padding="0%" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0% 3% 3% 3%">
+          <mj-image padding="0%" width="750px" fluid-on-mobile="true" src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022%2Femail-UPH05-TEN-UNDER-TEN-EDITORIAL.png" alt="UPH05-Editorial" border-radius="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0%">
+          <mj-button color="white" href="https://www.valleyforge.com/design-library/UPH05" align="center" text-transform="uppercase" padding="0 0 3% 0%">
+            View UPH05 Collection
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper background-color="white" padding="0%">
+      <!-- Title CTA 1 -->
+      <mj-section padding="0% 3%" border-top="5px solid #eb9769">
+        <mj-column padding="3%" width="66%" vertical-align="middle" border-right="2px solid #eb9769">
+          <mj-text font-size="14px" align="left" color="#eb9769" font-weight="400">
+            CSU222
+          </mj-text>
+          <mj-text font-size="30px" align="left" text-transform="uppercase" font-weight="900%" padding="1% 0 2% 0%">
+            JASENIA
+          </mj-text>
+          <mj-text line-height="1.2">
+            Jasenia is a collection inspired by planetary hues that weave sustainability into upholstery fabric. From textured boucles of Mars red to a blend of high and low Neptune blue patterns, Jasenia uses twelve recycled bottles per yard to create an ethereal collection for any design space.
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="5% 0%">
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>End Use: </b>Upholstery</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Width: </b>54"</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Content: </b>54% Post. Con. Recycled Polyester, 46% Polyester</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Certifications: </b>CAL 117</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>SKUs: </b>5</mj-text>
+          <mj-spacer height="10px" />
+          <mj-divider border-style="solid" border-color="#eb9769" border-width="2px" align="left" width="66%" padding="0%" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0% 3% 3% 3%">
+          <mj-image padding="0%" width="750px" fluid-on-mobile="true" src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022%2Femail-CSU222-JASENIA-EDITORIAL.png" alt="CSU222 Editorial" border-radius="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0%">
+          <mj-button color="white" href="https://www.valleyforge.com/design-library/CSU222" align="center" text-transform="uppercase" padding="0 0 3% 0%">
+            View CSU222 Collection
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+    <!-- COLLECTION CARD - GALLERY LARGE-->
+    <mj-wrapper background-color="white" padding="0%">
+      <!-- Title CTA 1 -->
+      <mj-section padding="0% 3%" border-top="5px solid #8fd0ca">
+        <mj-column padding="3%" width="66%" vertical-align="middle" border-right="2px solid #8fd0ca">
+          <mj-text font-size="14px" align="left" color="#8fd0ca" font-weight="400">
+            CSV24 and CSV26
+          </mj-text>
+          <mj-text font-size="30px" align="left" text-transform="uppercase" font-weight="900%" padding="1% 0 2% 0%">
+            Meringue Texture and Sensory Plaid
+          </mj-text>
+          <mj-text line-height="1.2">
+            Strie plaid and basket weave prints collide to create a 2-in-1 vinyl ring set. This collection reveals a slew of menswear in neutral and warm tones and is Reach Complaint.
+          </mj-text>
+        </mj-column>
+        <mj-column width="33%" vertical-align="middle" padding="5% 0%">
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>End Use: </b>Upholstery Vinyl</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Width: </b>54"</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Content: </b>80% PVC, 20% Polyester</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>Certifications: </b>CAL 117</mj-text>
+          <mj-text padding-left="2%" align="left" line-height="1.3"><b>SKUs: </b>16</mj-text>
+          <mj-spacer height="10px" />
+          <mj-divider border-style="solid" border-color="#8fd0ca" border-width="2px" align="left" width="66%" padding="0%" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0% 3% 3% 3%">
+          <mj-image padding="0%" width="750px" fluid-on-mobile="true" src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022%2Femail-CSV24%20MERINGUE%20TEXTURE%20-%20CSV26%20SENSORY%20PLAID-EDITORIAL.png" alt="CSV24 and CSV26 Editorials" border-radius="10px" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0%">
+        <mj-column padding="0%">
+          <mj-button color="white" href="https://www.valleyforge.com/design-library?q%5Bcollection_book_number_in%5D=CSV24+CSV26" align="center" text-transform="uppercase" padding="0 0 3% 0%">
+            View CSV24 and CSV26 Collection
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- CTA -->
+    <mj-section padding="0%">
+      <mj-column background-color="#eb9769" padding="5% 3%">
+        <mj-text line-height="1" font-size="30px" align="center" padding="0%" font-weight="900%" text-transform="uppercase" font-style="italic" color="white">
+          Don't Miss Out!
+        </mj-text>
+        <mj-text align="center" padding="3% 0" color="white">
+          See all new SKUs and their details on the Design Library
+        </mj-text>
+        <mj-button align="center" color="white" padding="0%" href="https://www.valleyforge.com/design-library?q%5Bcollection_book_number_in%5D=CSV24+CSV26+CSU222+UPH03+UPH05">
+          VIEW ALL NEW COLLECTIONS
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-section background-color="#232b2b" padding="3% 0%">
+      <mj-column vertical-align="middle">
+        <mj-image src="https://233d8d9d1be77a42cc4e-cb4d167347d4238c9e99ff4a171716c6.ssl.cf1.rackcdn.com/2022/VFF-Logo-Transparent-white.png" alt="Valley Forge Fabrics Logo" align="center" width="100px"></mj-image>
+      </mj-column>
+      <mj-column vertical-align="middle">
+        <mj-text color="white" line-height="1.3" align="center">Valley Forge Fabrics, Inc.</mj-text>
+        <mj-text color="white" line-height="1.3" align="center">1650 West McNab Road</mj-text>
+        <mj-text color="white" line-height="1.3" align="center">Fort Lauderdale, FL 33309</mj-text>
+        <mj-text color="white" line-height="1.3" align="center">(954) 971-1776</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
